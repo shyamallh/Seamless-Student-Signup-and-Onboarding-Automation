@@ -6,7 +6,7 @@ A secure web-based student onboarding system developed using Flask and MySQL tha
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project was developed as part of the iScalePro Pvt. Ltd. internship program.
 
@@ -25,7 +25,7 @@ The application focuses on improving onboarding efficiency, reducing registratio
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Student Features
 - Student Registration
@@ -43,7 +43,7 @@ The application focuses on improving onboarding efficiency, reducing registratio
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 - Password hashing using bcrypt
 - Session-based authentication
@@ -53,7 +53,7 @@ The application focuses on improving onboarding efficiency, reducing registratio
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Flask
@@ -65,24 +65,3 @@ The application focuses on improving onboarding efficiency, reducing registratio
 - mysql-connector-python
 - VS Code
 
----
-
-## 📂 Project Structure
-
-```bash
-project/
-│
-├── app.py
-├── templates/
-│   ├── signup.html
-│   ├── login.html
-│   ├── verify.html
-│   ├── student_dashboard.html
-│   └── admin_dashboard.html
-│
-├── static/
-│   ├── style.css
-│   └── script.js
-│
-└── database/
-    └── student_onboarding.sql
